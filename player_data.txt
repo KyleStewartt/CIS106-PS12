@@ -1,0 +1,10 @@
+Baker 0.267
+Thomas 0.300
+Wilson 0.280
+Doe 0.315
+Johnson 0.295
+Adams 0.275
+Martin 0.310
+Robinson 0.290
+King 0.305
+Brown 0.285

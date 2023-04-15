@@ -1,0 +1,10 @@
+Smith 90
+Johnson 85
+Williams 78
+Brown 92
+Jones 88
+Garcia 76
+Miller 95
+Davis 89
+Rodriguez 82
+Martinez 93
